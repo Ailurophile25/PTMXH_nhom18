@@ -1,0 +1,33 @@
+{
+  "corpus_papers": 1497,
+  "full_graph_papers": 1497,
+  "available_review_pairs": 180,
+  "review_pairs_missing_from_corpus": 0,
+  "missing_title": 0,
+  "missing_abstract": 0,
+  "primary_group_counts": {
+    "Recommender Systems": 399,
+    "Graph Mining": 350,
+    "Knowledge Graph": 248,
+    "Social Network Analysis": 200,
+    "Graph Neural Networks": 200,
+    "Collaborative Filtering": 100
+  },
+  "review_label_counts": {
+    "1": 175,
+    "0": 5
+  },
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "semantic_candidates": 1542,
+  "semantic_min_similarity": 0.72,
+  "semantic_top_k": 3,
+  "similarity_scope": "ALL_CORPUS_PAPERS",
+  "new_manual_review_pairs": 120,
+  "warnings": [
+    "No neural network fine-tuning was performed.",
+    "Semantic candidates are unverified and must NOT be imported as factual edges yet.",
+    "A cosine score is NOT an accuracy or probability.",
+    "The reviewed 180 samples are mainly positive; use independent, preferably balanced labels for evaluation."
+  ]
+}
