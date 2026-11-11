@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# IDE
+.vscode/
+
+# Neo4j local database
+data/
+logs/
+plugins/
+*.dump
+*.backup
+
+# Large generated embeddings
+nlp/*.npy
+
+# Temporary files
+*.tmp
+*.log
