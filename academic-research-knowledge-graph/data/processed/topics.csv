@@ -1,0 +1,483 @@
+﻿topic_id,name
+https://openalex.org/T10203,Recommender Systems and Techniques
+https://openalex.org/T10286,Information Retrieval and Search Behavior
+https://openalex.org/T12101,Advanced Bandit Algorithms Research
+https://openalex.org/T12031,Speech and dialogue systems
+https://openalex.org/T12128,AI in Service Interactions
+https://openalex.org/T10883,Ethics and Social Impacts of AI
+https://openalex.org/T11058,Ethics in Business and Education
+https://openalex.org/T14435,Information Retrieval and Data Mining
+https://openalex.org/T10991,Game Theory and Voting Systems
+https://openalex.org/T10028,Topic Modeling
+https://openalex.org/T10927,Access Control and Trust
+https://openalex.org/T12761,Data Stream Mining Techniques
+https://openalex.org/T11689,Adversarial Robustness in Machine Learning
+https://openalex.org/T10764,Privacy-Preserving Technologies in Data
+https://openalex.org/T13308,Cybernetics and Technology in Society
+https://openalex.org/T11714,Multimodal Machine Learning Applications
+https://openalex.org/T12026,Explainable Artificial Intelligence (XAI)
+https://openalex.org/T11273,Advanced Graph Neural Networks
+https://openalex.org/T10064,Complex Network Analysis Techniques
+https://openalex.org/T10609,Digital Marketing and Social Media
+https://openalex.org/T10845,Advanced Causal Inference Techniques
+https://openalex.org/T11307,Domain Adaptation and Few-Shot Learning
+https://openalex.org/T12303,Tensor decomposition and applications
+https://openalex.org/T11704,Mobile Crowdsensing and Crowdsourcing
+https://openalex.org/T10462,Reinforcement Learning in Robotics
+https://openalex.org/T10667,Emotion and Mood Recognition
+https://openalex.org/T10470,Usability and User Interface Design
+https://openalex.org/T11147,Misinformation and Its Impacts
+https://openalex.org/T11437,Digital Platforms and Economics
+https://openalex.org/T11031,Game Theory and Applications
+https://openalex.org/T13243,Innovation in Digital Healthcare Systems
+https://openalex.org/T11446,Mobile Health and mHealth Applications
+https://openalex.org/T10731,Educational Games and Gamification
+https://openalex.org/T10803,Innovative Human-Technology Interaction
+https://openalex.org/T10820,Fuzzy Logic and Control Systems
+https://openalex.org/T10050,Multi-Criteria Decision Making
+https://openalex.org/T10557,Social Media and Politics
+https://openalex.org/T11707,Gaze Tracking and Assistive Technology
+https://openalex.org/T13812,AI and HR Technologies
+https://openalex.org/T10400,Network Security and Intrusion Detection
+https://openalex.org/T10734,Information and Cyber Security
+https://openalex.org/T11122,Online Learning and Analytics
+https://openalex.org/T11902,Intelligent Tutoring Systems and Adaptive Learning
+https://openalex.org/T11309,Music and Audio Processing
+https://openalex.org/T10102,scientometrics and bibliometrics research
+https://openalex.org/T10237,Cryptography and Data Security
+https://openalex.org/T10709,Social Robot Interaction and HRI
+https://openalex.org/T13559,Edcuational Technology Systems
+https://openalex.org/T12805,Cognitive Science and Mapping
+https://openalex.org/T13038,Internet of Things and AI
+https://openalex.org/T10273,IoT and Edge/Fog Computing
+https://openalex.org/T10315,Decision-Making and Behavioral Economics
+https://openalex.org/T11161,Consumer Market Behavior and Pricing
+https://openalex.org/T10036,Advanced Neural Network Applications
+https://openalex.org/T10664,Sentiment Analysis and Opinion Mining
+https://openalex.org/T11045,"Privacy, Security, and Data Protection"
+https://openalex.org/T10538,Data Mining Algorithms and Applications
+https://openalex.org/T11612,Stochastic Gradient Optimization Techniques
+https://openalex.org/T10616,Smart Agriculture and AI
+https://openalex.org/T11396,Artificial Intelligence in Healthcare
+https://openalex.org/T13373,Data Mining and Machine Learning Applications
+https://openalex.org/T11980,Human Mobility and Location-Based Analysis
+https://openalex.org/T10215,Semantic Web and Ontologies
+https://openalex.org/T12016,Web Data Mining and Analysis
+https://openalex.org/T12262,Hate Speech and Cyberbullying Detection
+https://openalex.org/T11644,Spam and Phishing Detection
+https://openalex.org/T11450,Model-Driven Software Engineering Techniques
+https://openalex.org/T10260,Software Engineering Research
+https://openalex.org/T10627,Advanced Image and Video Retrieval Techniques
+https://openalex.org/T13364,"Digitalization, Law, and Regulation"
+https://openalex.org/T10136,Statistical Methods and Inference
+https://openalex.org/T10211,Computational Drug Discovery Methods
+https://openalex.org/T10885,Gene expression and cancer classification
+https://openalex.org/T10388,Advanced Steganography and Watermarking Techniques
+https://openalex.org/T12122,Physical Unclonable Functions (PUFs) and Hardware Security
+https://openalex.org/T10068,Technology Adoption and User Behaviour
+https://openalex.org/T12479,Web Application Security Vulnerabilities
+https://openalex.org/T13984,"Nutrition, Genetics, and Disease"
+https://openalex.org/T10799,Data Visualization and Analytics
+https://openalex.org/T11478,Caching and Content Delivery
+https://openalex.org/T12814,Gaussian Processes and Bayesian Inference
+https://openalex.org/T11479,Smart Cities and Technologies
+https://openalex.org/T12238,Green IT and Sustainability
+https://openalex.org/T11598,Internet Traffic Analysis and Secure E-voting
+https://openalex.org/T10133,News Media Framing and Political Communication
+https://openalex.org/T13718,Media Influence and Politics
+https://openalex.org/T12720,Multimedia Communication and Technology
+https://openalex.org/T10682,Quantum Computing Algorithms and Architecture
+https://openalex.org/T14414,Artificial Intelligence in Education
+https://openalex.org/T10162,Online and Blended Learning
+https://openalex.org/T10533,Teaching and Learning Programming
+https://openalex.org/T12535,Machine Learning and Data Classification
+https://openalex.org/T10157,Sports Performance and Training
+https://openalex.org/T10444,Context-Aware Activity Recognition Systems
+https://openalex.org/T11326,Stock Market Forecasting Methods
+https://openalex.org/T11490,Hydrological Forecasting Using AI
+https://openalex.org/T10047,Financial Markets and Investment Strategies
+https://openalex.org/T14114,Digital Media and Philosophy
+https://openalex.org/T13508,Agricultural Economics and Practices
+https://openalex.org/T10439,Climate change impacts on agriculture
+https://openalex.org/T10456,Multi-Agent Systems and Negotiation
+https://openalex.org/T10500,Sparse and Compressive Sensing Techniques
+https://openalex.org/T10270,Blockchain Technology Applications and Security
+https://openalex.org/T10055,Diverse Aspects of Tourism Research
+https://openalex.org/T12676,Machine Learning and ELM
+https://openalex.org/T11195,Simulation Techniques and Applications
+https://openalex.org/T12123,Financial Analysis and Corporate Governance
+https://openalex.org/T11106,Data Management and Algorithms
+https://openalex.org/T12171,Open Education and E-Learning
+https://openalex.org/T11948,Machine Learning in Materials Science
+https://openalex.org/T10328,Supply Chain and Inventory Management
+https://openalex.org/T11918,Forecasting Techniques and Applications
+https://openalex.org/T13284,Psychology Research and Bibliometrics
+https://openalex.org/T12292,Graph Theory and Algorithms
+https://openalex.org/T10317,Advanced Database Systems and Queries
+https://openalex.org/T12034,Digital and Cyber Forensics
+https://openalex.org/T12519,Cybercrime and Law Enforcement Studies
+https://openalex.org/T10637,Advanced Clustering Algorithms Research
+https://openalex.org/T10057,Face and Expression Recognition
+https://openalex.org/T11241,Advanced Malware Detection Techniques
+https://openalex.org/T11448,Face recognition and analysis
+https://openalex.org/T11720,Probability and Risk Models
+https://openalex.org/T10720,Complexity and Algorithms in Graphs
+https://openalex.org/T10101,Cloud Computing and Resource Management
+https://openalex.org/T14098,Energy Efficiency in Computing
+https://openalex.org/T10181,Natural Language Processing Techniques
+https://openalex.org/T10054,Parallel Computing and Optimization Techniques
+https://openalex.org/T10904,Embedded Systems Design Techniques
+https://openalex.org/T11424,Security and Verification in Computing
+https://openalex.org/T12127,Software System Performance and Reliability
+https://openalex.org/T10743,Software Testing and Debugging Techniques
+https://openalex.org/T11512,Anomaly Detection Techniques and Applications
+https://openalex.org/T13083,Advanced Text Analysis Techniques
+https://openalex.org/T11063,Rough Sets and Fuzzy Logic
+https://openalex.org/T11006,BIM and Construction Integration
+https://openalex.org/T11729,Product Development and Customization
+https://openalex.org/T12698,3D Modeling in Geospatial Applications
+https://openalex.org/T11675,Open Source Software Innovations
+https://openalex.org/T10430,Software Engineering Techniques and Practices
+https://openalex.org/T10034,"Syntax, Semantics, Linguistic Variation"
+https://openalex.org/T12483,Global Urban Networks and Dynamics
+https://openalex.org/T11599,Aviation Industry Analysis and Trends
+https://openalex.org/T10959,Student Assessment and Feedback
+https://openalex.org/T14025,Educational Technology and Assessment
+https://openalex.org/T10935,Endometriosis Research and Treatment
+https://openalex.org/T10686,Effects and risks of endocrine disrupting chemicals
+https://openalex.org/T11710,Biomedical Text Mining and Ontologies
+https://openalex.org/T10241,Functional Brain Connectivity Studies
+https://openalex.org/T13720,Benford’s Law and Fraud Detection
+https://openalex.org/T10887,Bioinformatics and Genomic Networks
+https://openalex.org/T10375,Pharmacogenetics and Drug Metabolism
+https://openalex.org/T13274,Expert finding and Q&A systems
+https://openalex.org/T12536,Topological and Geometric Data Analysis
+https://openalex.org/T11476,Graph theory and applications
+https://openalex.org/T10639,Advanced Software Engineering Methodologies
+https://openalex.org/T13910,Computational and Text Analysis Methods
+https://openalex.org/T11838,"Crime, Illicit Activities, and Governance"
+https://openalex.org/T12782,Assembly Line Balancing Optimization
+https://openalex.org/T11159,Manufacturing Process and Optimization
+https://openalex.org/T12254,Machine Learning in Bioinformatics
+https://openalex.org/T10714,Software-Defined Networks and 5G
+https://openalex.org/T10138,Network Traffic and Congestion Control
+https://openalex.org/T11550,Text and Document Classification Technologies
+https://openalex.org/T10856,Intellectual Property and Patents
+https://openalex.org/T13282,Automated Road and Building Extraction
+https://openalex.org/T11211,3D Surveying and Cultural Heritage
+https://openalex.org/T10876,Fault Detection and Control Systems
+https://openalex.org/T10703,Business Process Modeling and Analysis
+https://openalex.org/T10454,Optimal Power Flow Distribution
+https://openalex.org/T12451,Smart Grid and Power Systems
+https://openalex.org/T13429,Electricity Theft Detection Techniques
+https://openalex.org/T10698,Transportation Planning and Optimization
+https://openalex.org/T13601,Urban Transport Systems Analysis
+https://openalex.org/T10715,Distributed and Parallel Computing Systems
+https://openalex.org/T11901,Bayesian Methods and Mixture Models
+https://openalex.org/T10044,Protein Structure and Dynamics
+https://openalex.org/T11162,Enzyme Structure and Function
+https://openalex.org/T11943,Pharmacovigilance and Adverse Drug Reactions
+https://openalex.org/T11465,Drug-Induced Hepatotoxicity and Protection
+https://openalex.org/T11269,Algorithms and Data Compression
+https://openalex.org/T11653,Financial Distress and Bankruptcy Prediction
+https://openalex.org/T11329,Limits and Structures in Graph Theory
+https://openalex.org/T12534,Protein Degradation and Inhibitors
+https://openalex.org/T11975,Evolutionary Algorithms and Applications
+https://openalex.org/T10442,Knee injuries and reconstruction techniques
+https://openalex.org/T11018,Lower Extremity Biomechanics and Pathologies
+https://openalex.org/T10220,Machine Fault Diagnosis Techniques
+https://openalex.org/T12488,Mental Health via Writing
+https://openalex.org/T10621,Gene Regulatory Network Analysis
+https://openalex.org/T11819,Data-Driven Disease Surveillance
+https://openalex.org/T12260,Educational Technology and Pedagogy
+https://openalex.org/T13607,Academic Publishing and Open Access
+https://openalex.org/T12423,Software Reliability and Analysis Research
+https://openalex.org/T11652,Imbalanced Data Classification Techniques
+https://openalex.org/T10604,RNA Research and Splicing
+https://openalex.org/T10521,RNA and protein synthesis mechanisms
+https://openalex.org/T10015,Genomics and Phylogenetic Studies
+https://openalex.org/T11574,Artificial Intelligence in Games
+https://openalex.org/T12592,Opinion Dynamics and Social Influence
+https://openalex.org/T11522,VLSI and FPGA Design Techniques
+https://openalex.org/T14280,Big Data Technologies and Applications
+https://openalex.org/T10100,Metaheuristic Optimization Algorithms Research
+https://openalex.org/T12490,Software Engineering and Design Patterns
+https://openalex.org/T10320,Neural Networks and Applications
+https://openalex.org/T10066,Gut microbiota and health
+https://openalex.org/T13794,Financial Reporting and XBRL
+https://openalex.org/T10081,"Auditing, Earnings Management, Governance"
+https://openalex.org/T12325,Urban Design and Spatial Analysis
+https://openalex.org/T10201,Speech Recognition and Synthesis
+https://openalex.org/T11213,Genomic variations and chromosomal abnormalities
+https://openalex.org/T11287,Cancer Genomics and Diagnostics
+https://openalex.org/T13664,Genome Rearrangement Algorithms
+https://openalex.org/T12419,Phonocardiography and Auscultation Techniques
+https://openalex.org/T10487,Plant and animal studies
+https://openalex.org/T10005,Ecology and Vegetation Dynamics Studies
+https://openalex.org/T10824,Image Retrieval and Classification Techniques
+https://openalex.org/T10860,Speech and Audio Processing
+https://openalex.org/T11196,Non-Invasive Vital Sign Monitoring
+https://openalex.org/T11021,ECG Monitoring and Analysis
+https://openalex.org/T14006,"Linguistics, Language Diversity, and Identity"
+https://openalex.org/T10410,COVID-19 epidemiological studies
+https://openalex.org/T11775,COVID-19 diagnosis using AI
+https://openalex.org/T10679,Service-Oriented Architecture and Web Services
+https://openalex.org/T10911,Chemical Synthesis and Analysis
+https://openalex.org/T10298,Urban Transport and Accessibility
+https://openalex.org/T11344,Traffic Prediction and Management Techniques
+https://openalex.org/T11357,Risk and Safety Analysis
+https://openalex.org/T14091,Industrial and Mining Safety
+https://openalex.org/T11121,Public Relations and Crisis Communication
+https://openalex.org/T13018,Seismology and Earthquake Studies
+https://openalex.org/T10747,Disaster Management and Resilience
+https://openalex.org/T10972,Power Systems Fault Detection
+https://openalex.org/T13643,Artificial Intelligence in Law
+https://openalex.org/T14291,Indonesian Legal and Regulatory Studies
+https://openalex.org/T10431,Ethnobotanical and Medicinal Plants Studies
+https://openalex.org/T14521,Medicinal Plant Research
+https://openalex.org/T13976,Web visibility and informetrics
+https://openalex.org/T12648,Academic Writing and Publishing
+https://openalex.org/T10121,Building Energy and Comfort Optimization
+https://openalex.org/T10363,Low-power high-performance VLSI design
+https://openalex.org/T11508,Corporate Taxation and Avoidance
+https://openalex.org/T11257,Taxation and Compliance Studies
+https://openalex.org/T14030,Taxation and Legal Issues
+https://openalex.org/T11052,Energy Load and Power Forecasting
+https://openalex.org/T10603,Smart Grid Energy Management
+https://openalex.org/T12946,Fractal and DNA sequence analysis
+https://openalex.org/T10689,Remote-Sensing Image Classification
+https://openalex.org/T11003,Disability Rights and Representation
+https://openalex.org/T13947,Media Discourse and Social Analysis
+https://openalex.org/T12607,Personal Information Management and User Behavior
+https://openalex.org/T11340,Marine Sponges and Natural Products
+https://openalex.org/T11986,Scientific Computing and Data Management
+https://openalex.org/T12377,Digital Humanities and Scholarship
+https://openalex.org/T10792,Matrix Theory and Algorithms
+https://openalex.org/T11303,Bayesian Modeling and Causal Inference
+https://openalex.org/T10183,Breast Cancer Treatment Studies
+https://openalex.org/T14222,Knowledge Management and Technology
+https://openalex.org/T14330,Library Science and Information Systems
+https://openalex.org/T13673,Library Science and Information
+https://openalex.org/T10757,Geographic Information Systems Studies
+https://openalex.org/T11010,"Logic, Reasoning, and Knowledge"
+https://openalex.org/T10519,Advanced Proteomics Techniques and Applications
+https://openalex.org/T11605,Visual Attention and Saliency Detection
+https://openalex.org/T11937,Research Data Management Practices
+https://openalex.org/T11636,Artificial Intelligence in Healthcare and Education
+https://openalex.org/T12422,Radiomics and Machine Learning in Medical Imaging
+https://openalex.org/T11719,Data Quality and Management
+https://openalex.org/T14410,Safety and Risk Management
+https://openalex.org/T10763,Digital Transformation in Industry
+https://openalex.org/T13702,Machine Learning in Healthcare
+https://openalex.org/T13745,Media and Digital Communication
+https://openalex.org/T13355,Marketing and Advertising Strategies
+https://openalex.org/T10812,Human Pose and Action Recognition
+https://openalex.org/T13625,Journalism and Media Studies
+https://openalex.org/T11892,Kawasaki Disease and Coronary Complications
+https://openalex.org/T13297,History and advancements in chemistry
+https://openalex.org/T11099,Autonomous Vehicle Technology and Safety
+https://openalex.org/T11239,Social Capital and Networks
+https://openalex.org/T10629,Health Policy Implementation Science
+https://openalex.org/T12010,Evaluation and Performance Assessment
+https://openalex.org/T10213,Public Policy and Administration Research
+https://openalex.org/T10174,Animal Behavior and Reproduction
+https://openalex.org/T10699,Primate Behavior and Ecology
+https://openalex.org/T10058,Entrepreneurship Studies and Influences
+https://openalex.org/T13402,Business Strategy and Innovation
+https://openalex.org/T10702,Insect and Arachnid Ecology and Behavior
+https://openalex.org/T10254,Innovations in Medical Education
+https://openalex.org/T12027,Social Media in Health Education
+https://openalex.org/T12413,Health and Medical Education
+https://openalex.org/T12028,Knowledge Management and Sharing
+https://openalex.org/T12196,Community Health and Development
+https://openalex.org/T13283,Mental Health Research Topics
+https://openalex.org/T13296,"Sociology, History and Politics of Sport"
+https://openalex.org/T10942,"Sports, Gender, and Society"
+https://openalex.org/T12970,"Names, Identity, and Discrimination Research"
+https://openalex.org/T10208,Labor market dynamics and wage inequality
+https://openalex.org/T13989,Labour Market and Migration
+https://openalex.org/T14498,Educational Technology in Learning
+https://openalex.org/T10482,Mathematical and Theoretical Epidemiology and Ecology Models
+https://openalex.org/T10199,Wildlife Ecology and Conservation
+https://openalex.org/T12492,Zoonotic diseases and public health
+https://openalex.org/T13979,Communication and COVID-19 Impact
+https://openalex.org/T12384,Customer churn and segmentation
+https://openalex.org/T11474,Sport and Mega-Event Impacts
+https://openalex.org/T12892,Social Power and Status Dynamics
+https://openalex.org/T13300,Contemporary Social and Educational Issues
+https://openalex.org/T12572,"Intelligence, Security, War Strategy"
+https://openalex.org/T10164,Quality and Supply Management
+https://openalex.org/T10539,Sustainable Supply Chain Management
+https://openalex.org/T11864,Supply Chain Resilience and Risk Management
+https://openalex.org/T13815,Islamic Thought and Society Studies
+https://openalex.org/T11671,Fuzzy and Soft Set Theory
+https://openalex.org/T11727,Advanced Algebra and Logic
+https://openalex.org/T10833,Vaccine Coverage and Hesitancy
+https://openalex.org/T12880,Qualitative Research Methods and Applications
+https://openalex.org/T13051,Qualitative Comparative Analysis Research
+https://openalex.org/T11028,Social Work Education and Practice
+https://openalex.org/T10267,Higher Education Research Studies
+https://openalex.org/T10485,"Bullying, Victimization, and Aggression"
+https://openalex.org/T11647,Workplace Violence and Bullying
+https://openalex.org/T10182,Child and Adolescent Psychosocial and Emotional Development
+https://openalex.org/T10395,Construction Project Management and Performance
+https://openalex.org/T12177,Resource-Constrained Project Scheduling
+https://openalex.org/T10415,International Business and FDI
+https://openalex.org/T10003,Innovation and Knowledge Management
+https://openalex.org/T10062,MicroRNA in disease regulation
+https://openalex.org/T11648,"Diaspora, migration, transnational identity"
+https://openalex.org/T10349,Migration and Labor Dynamics
+https://openalex.org/T10994,"Terrorism, Counterterrorism, and Political Violence"
+https://openalex.org/T10006,Job Satisfaction and Organizational Behavior
+https://openalex.org/T13982,Social Movements and Cultural Identity
+https://openalex.org/T10970,Team Dynamics and Performance
+https://openalex.org/T11988,Sustainable Building Design and Assessment
+https://openalex.org/T12239,Construction Management and Sustainability
+https://openalex.org/T10216,"Migration, Refugees, and Integration"
+https://openalex.org/T12783,"Migration, Aging, and Tourism Studies"
+https://openalex.org/T10362,Biblical Studies and Interpretation
+https://openalex.org/T11502,Facility Location and Emergency Management
+https://openalex.org/T11430,Disaster Response and Management
+https://openalex.org/T12550,"Politics and Conflicts in Afghanistan, Pakistan, and Middle East"
+https://openalex.org/T14110,Islamic Studies and Radicalism
+https://openalex.org/T12225,Political Influence and Corporate Strategies
+https://openalex.org/T12210,Policy Transfer and Learning
+https://openalex.org/T13356,Early Modern Women Writers
+https://openalex.org/T14386,"Libraries, Manuscripts, and Books"
+https://openalex.org/T10838,Animal Behavior and Welfare Studies
+https://openalex.org/T10524,Traffic control and management
+https://openalex.org/T13751,Diverse Approaches in Healthcare and Education Studies
+https://openalex.org/T14500,Smarandache Functions and Recreational Number Theory
+https://openalex.org/T13494,Military History and Strategy
+https://openalex.org/T10070,Political Conflict and Governance
+https://openalex.org/T10060,Smoking Behavior and Cessation
+https://openalex.org/T12509,Corporate Insolvency and Governance
+https://openalex.org/T10561,Educational Research and Methods
+https://openalex.org/T12950,Educational Environments and Student Outcomes
+https://openalex.org/T12679,Focus Groups and Qualitative Methods
+https://openalex.org/T12926,Business Strategies and Management Research
+https://openalex.org/T10680,Wind Energy Research and Development
+https://openalex.org/T10737,Health Literacy and Information Accessibility
+https://openalex.org/T13459,Public Administration and Political Analysis
+https://openalex.org/T11753,Forest Management and Policy
+https://openalex.org/T12227,Environmental and Social Impact Assessments
+https://openalex.org/T12693,"Migration, Ethnicity, and Economy"
+https://openalex.org/T13398,Data Analysis with R
+https://openalex.org/T11238,Simulation-Based Education in Healthcare
+https://openalex.org/T11756,Mentoring and Academic Development
+https://openalex.org/T10576,Opioid Use Disorder Treatment
+https://openalex.org/T13624,Social Sciences and Policies
+https://openalex.org/T11560,Animal Disease Management and Epidemiology
+https://openalex.org/T10167,Influenza Virus Research Studies
+https://openalex.org/T10115,Corporate Social Responsibility Reporting
+https://openalex.org/T13957,Corporate Governance and Financial Management
+https://openalex.org/T10019,Corporate Finance and Governance
+https://openalex.org/T12681,Global Healthcare and Medical Tourism
+https://openalex.org/T12766,Interdisciplinary Research and Collaboration
+https://openalex.org/T12918,Healthcare Systems and Technology
+https://openalex.org/T11497,Interprofessional Education and Collaboration
+https://openalex.org/T10391,Healthcare Policy and Management
+https://openalex.org/T11120,Nonprofit Sector and Volunteering
+https://openalex.org/T13831,Archaeological and Geological Studies
+https://openalex.org/T13621,Ancient and Medieval Archaeology Studies
+https://openalex.org/T11911,Spatial and Panel Data Analysis
+https://openalex.org/T12888,Military Strategy and Technology
+https://openalex.org/T12843,Human Resource and Talent Management
+https://openalex.org/T11779,Higher Education and Employability
+https://openalex.org/T12415,Employer Branding and e-HRM
+https://openalex.org/T12555,Ancient Egypt and Archaeology
+https://openalex.org/T10165,Classical Antiquity Studies
+https://openalex.org/T10595,Medieval Literature and History
+https://openalex.org/T13739,Medieval and Early Modern Justice
+https://openalex.org/T14260,Impact of AI and Big Data on Business and Society
+https://openalex.org/T11741,Flexible and Reconfigurable Manufacturing Systems
+https://openalex.org/T13024,Literary Theory and Cultural Hermeneutics
+https://openalex.org/T13098,Conferences and Exhibitions Management
+https://openalex.org/T11939,Public-Private Partnership Projects
+https://openalex.org/T10053,International Relations and Foreign Policy
+https://openalex.org/T12629,Island Studies and Pacific Affairs
+https://openalex.org/T10118,SARS-CoV-2 and COVID-19 Research
+https://openalex.org/T10259,Sociology and Education Studies
+https://openalex.org/T13136,Community-based Tourism Development and Sustainability
+https://openalex.org/T12953,Critical Realism in Sociology
+https://openalex.org/T10509,"Religion, Spirituality, and Psychology"
+https://openalex.org/T13072,Contemporary Christian Leadership and Education
+https://openalex.org/T10475,Psychological Well-being and Life Satisfaction
+https://openalex.org/T14313,Health and Well-being Studies
+https://openalex.org/T12244,Healthcare Education and Workforce Issues
+https://openalex.org/T12974,Modernist Literature and Criticism
+https://openalex.org/T14131,Giambattista Vico and Joyce
+https://openalex.org/T11299,Problem and Project Based Learning
+https://openalex.org/T11995,"FinTech, Crowdfunding, Digital Finance"
+https://openalex.org/T14416,"Health, Technology, Consumer Behavior"
+https://openalex.org/T10813,Sport Psychology and Performance
+https://openalex.org/T11431,Action Observation and Synchronization
+https://openalex.org/T10376,Suicide and Self-Harm Studies
+https://openalex.org/T13605,"Homicide, Infanticide, and Child Abuse"
+https://openalex.org/T10272,Mental Health Treatment and Access
+https://openalex.org/T12636,Regional Development and Innovation
+https://openalex.org/T10383,"Language, Discourse, Communication Strategies"
+https://openalex.org/T13538,Linguistics and Language Analysis
+https://openalex.org/T11640,Linguistic Variation and Morphology
+https://openalex.org/T10730,Language Development and Disorders
+https://openalex.org/T10589,Early Childhood Education and Development
+https://openalex.org/T10656,Child and Animal Learning Development
+https://openalex.org/T11270,Complex Systems and Time Series Analysis
+https://openalex.org/T10355,Impact of Technology on Adolescents
+https://openalex.org/T11040,Personality Traits and Psychology
+https://openalex.org/T10636,Innovative Teaching and Learning Methods
+https://openalex.org/T10547,"Education, Achievement, and Giftedness"
+https://openalex.org/T12556,Educational Methods and Analysis
+https://openalex.org/T10145,Consumer Behavior in Brand Consumption and Identification
+https://openalex.org/T12807,Consumer Behavior and Market Dynamics
+https://openalex.org/T10467,Psychometric Methodologies and Testing
+https://openalex.org/T12965,Wildlife Conservation and Criminology Analyses
+https://openalex.org/T13914,European Cultural and National Identity
+https://openalex.org/T13276,University-Industry-Government Innovation Models
+https://openalex.org/T10048,Particle physics theoretical and experimental studies
+https://openalex.org/T11044,Particle Detector Development and Performance
+https://openalex.org/T10191,Robotics and Sensor-Based Localization
+https://openalex.org/T10531,Advanced Vision and Imaging
+https://openalex.org/T10002,Advanced Chemical Physics Studies
+https://openalex.org/T11596,Constraint Satisfaction and Optimization
+https://openalex.org/T10374,Advanced Graph Theory Research
+https://openalex.org/T10305,Power System Optimization and Stability
+https://openalex.org/T10719,3D Shape Modeling and Analysis
+https://openalex.org/T11398,Hand Gesture Recognition Systems
+https://openalex.org/T12290,Human Motion and Animation
+https://openalex.org/T11206,Model Reduction and Neural Networks
+https://openalex.org/T11416,Numerical Solvers for Ordinary Differential Equations
+https://openalex.org/T12205,Time Series Analysis and Forecasting
+https://openalex.org/T12044,Advanced Physical and Chemical Molecular Interactions
+https://openalex.org/T10424,Electric Power System Optimization
+https://openalex.org/T13918,Advanced Data and IoT Technologies
+https://openalex.org/T10502,Advanced Memory and Neural Computing
+https://openalex.org/T10249,Distributed Control Multi-Agent Systems
+https://openalex.org/T10429,EEG and Brain-Computer Interfaces
+https://openalex.org/T11321,Error Correcting Code Techniques
+https://openalex.org/T11130,Coding theory and cryptography
+https://openalex.org/T10601,Handwritten Text Recognition Techniques
+https://openalex.org/T10586,Robotic Path Planning Algorithms
+https://openalex.org/T10906,AI-based Problem Solving and Planning
+https://openalex.org/T12380,Authorship Attribution and Profiling
+https://openalex.org/T12357,Digital Media Forensic Detection
+https://openalex.org/T10117,Advanced Combustion Engine Technologies
+https://openalex.org/T11409,Advanced Wireless Network Optimization
+https://openalex.org/T11458,Advanced Wireless Communication Technologies
+https://openalex.org/T11809,Advanced NMR Techniques and Applications
+https://openalex.org/T10402,Phase Equilibria and Thermodynamics
+https://openalex.org/T10331,Video Surveillance and Tracking Methods
+https://openalex.org/T11500,Evacuation and Crowd Dynamics
+https://openalex.org/T11289,Single-cell and spatial transcriptomics
+https://openalex.org/T12859,Cell Image Analysis Techniques
+https://openalex.org/T11304,Advanced Neuroimaging Techniques and Applications
+https://openalex.org/T11757,Seismic Waves and Analysis
+https://openalex.org/T10110,earthquake and tectonic studies
+https://openalex.org/T10939,Crystal Structures and Properties
+https://openalex.org/T11158,Wireless Networks and Protocols
+https://openalex.org/T10481,Computer Graphics and Visualization Techniques
+https://openalex.org/T11005,Radiation Effects in Electronics
+https://openalex.org/T11032,VLSI and Analog Circuit Testing
+https://openalex.org/T10688,Image and Signal Denoising Methods
+https://openalex.org/T12288,Optimization and Search Problems
+https://openalex.org/T10775,Generative Adversarial Networks and Image Synthesis

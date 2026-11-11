@@ -1,0 +1,22 @@
+{
+  "graph_papers": 1497,
+  "derived_edge_counts": {
+    "CO_AUTHORED_WITH": 11743,
+    "RESEARCHES": 15039,
+    "COLLABORATES_WITH": 2805,
+    "BIBLIOGRAPHIC_COUPLING": 2174,
+    "CO_CITED_WITH": 1187
+  },
+  "total_derived_edges": 32948,
+  "selection_params": {
+    "min_shared_references": 2,
+    "min_co_citations": 2,
+    "top_k_similar": 15
+  },
+  "notes": [
+    "Derived edges use only verified in-graph endpoints.",
+    "All edges include evidence IDs; semantic correctness is not yet manually evaluated.",
+    "External citations are excluded from coupling and co-citation.",
+    "RESEARCHES and other edges are derived from metadata, not from an NLP classifier."
+  ]
+}

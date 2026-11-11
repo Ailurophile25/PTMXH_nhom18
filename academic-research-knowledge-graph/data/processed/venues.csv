@@ -1,0 +1,670 @@
+﻿venue_id,name,type
+https://openalex.org/S4210170305,ACM Transactions on Management Information Systems,journal
+https://openalex.org/S4363608773,International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR),conference
+https://openalex.org/S4210190517,AI & Society,journal
+https://openalex.org/S157921468,ACM Computing Surveys,journal
+https://openalex.org/S168682784,Kybernetes,journal
+https://openalex.org/S3035462843,Complex & Intelligent Systems,journal
+https://openalex.org/S4363608767,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),conference
+https://openalex.org/S4394735545,ACM Transactions on Information Systems,journal
+https://openalex.org/S7407121149,Workshop on Deep Learning for Recommender Systems (DLRS),conference
+https://openalex.org/S4363606243,neural information processing systems,conference
+https://openalex.org/S2492086750,ACM Transactions on Intelligent Systems and Technology,journal
+https://openalex.org/S205899252,IEEE Internet Computing,journal
+https://openalex.org/S7407088480,International World Wide Web Conference (WWW),conference
+https://openalex.org/S179822231,Journal of Material Culture,journal
+https://openalex.org/S4387284325,ACM Transactions on Recommender Systems,journal
+https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference
+https://openalex.org/S30698027,IEEE Transactions on Knowledge and Data Engineering,journal
+https://openalex.org/S4210214273,The Journal of Open Source Software,journal
+https://openalex.org/S4363608885,ACM International Conference on Web Search and Data Mining (WSDM),conference
+https://openalex.org/S7407086088,ACM Conference on Recommender Systems (RecSys),conference
+https://openalex.org/S2505707916,Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery,journal
+https://openalex.org/S5407048695,Proceedings of the AAAI/ACM Conference on AI Ethics and Society,conference
+https://openalex.org/S114241109,IEEE Intelligent Systems,journal
+https://openalex.org/S4210206007,International Journal of Computer Applications,journal
+https://openalex.org/S160628929,User Modeling and User-Adapted Interaction,journal
+https://openalex.org/S7407087750,"ACM Conference on User Modeling, Adaptation and Personalization (UMAP)",conference
+https://openalex.org/S190629608,Algorithms,journal
+https://openalex.org/S70010600,Information Communication & Society,journal
+https://openalex.org/S27191780,International Journal of Advanced Intelligence Paradigms,journal
+https://openalex.org/S4210194376,AI Open,journal
+https://openalex.org/S7407086775,ACM International Conference on Intelligent User Interfaces (IUI),conference
+https://openalex.org/S163019073,AI Magazine,journal
+https://openalex.org/S103482838,Communications of the ACM,journal
+https://openalex.org/S4306402255,Wintec Research Archive (Waikato Institute of Technology),repository
+https://openalex.org/S203860005,The Quarterly Journal of Economics,journal
+https://openalex.org/S4306419582,"International Conference on Innovations in Information, Embedded and Communication Systems",conference
+https://openalex.org/S7407096353,International Conference on Innovative Trends in Computer Engineering (ITCE),conference
+https://openalex.org/S4306419905,"International Conference on User Modeling, Adaptation, and Personalization",conference
+https://openalex.org/S4393918199,ACM International Conference on Information and Knowledge Management (CIKM),conference
+https://openalex.org/S190680769,International Journal of Computational Intelligence Systems,journal
+https://openalex.org/S4210177192,Internet Policy Review,journal
+https://openalex.org/S4306419918,International Conference on Web Information Systems and Technologies,conference
+https://openalex.org/S2485537415,IEEE Access,journal
+https://openalex.org/S197106261,Foundations and Trends® in Information Retrieval,journal
+https://openalex.org/S122814990,Artificial Intelligence Review,journal
+https://openalex.org/S4306419340,International Conference on Digital Health,conference
+https://openalex.org/S7560371,Information Fusion,journal
+https://openalex.org/S4363607785,International Conference on Advanced Computing and Communication Systems (ICACCS),conference
+https://openalex.org/S4210175523,IEEE Transactions on Neural Networks and Learning Systems,journal
+https://openalex.org/S81770430,Knowledge and Information Systems,journal
+https://openalex.org/S4306417673,Annual Computer Security Applications Conference,conference
+https://openalex.org/S4306419219,International Conference on Computational Linguistics,conference
+https://openalex.org/S36033921,Journal of Intelligent Information Systems,journal
+https://openalex.org/S102129144,First Monday,journal
+https://openalex.org/S4210185723,Journal of Smart Environments and Green Computing,journal
+https://openalex.org/S2496055428,International Journal of Multimedia Information Retrieval,journal
+https://openalex.org/S4363608536,International Conference on Computational Intelligence and Communication Technologies (CCICT),conference
+https://openalex.org/S10169007,Knowledge-Based Systems,journal
+https://openalex.org/S2486411021,Data Science and Engineering,journal
+https://openalex.org/S7407120291,National Conference on E-Learning & E-Learning Technologies (ELELTECH),conference
+https://openalex.org/S4306423450,"International Conference on Computing, Communication and Automation",conference
+https://openalex.org/S2737635154,Applied Computing and Informatics,journal
+https://openalex.org/S7407055387,CityU Scholars,repository
+https://openalex.org/S208001523,Journal of Internet Commerce,journal
+https://openalex.org/S4210201220,Frontiers in Big Data,journal
+https://openalex.org/S23629721,International Journal of Advanced Computer Science and Applications,journal
+https://openalex.org/S101949793,Sensors,journal
+https://openalex.org/S7407088287,IEEE/ACS International Conference on Computer Systems and Applications (AICCSA),conference
+https://openalex.org/S4210198611,Computers in Human Behavior Reports,journal
+https://openalex.org/S123849098,Behaviour and Information Technology,journal
+https://openalex.org/S4210201048,Machine Learning with Applications,journal
+https://openalex.org/S13144211,Expert Systems with Applications,journal
+https://openalex.org/S7407087368,"IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT)",conference
+https://openalex.org/S4306498847,International Conference on Innovations in Intelligent Systems and Applications (INISTA),conference
+https://openalex.org/S4363607858,International Conference on Computing Methodologies and Communication (ICCMC),conference
+https://openalex.org/S4363608074,IEEE/WIC/ACM International Conference on Web Intelligence,conference
+https://openalex.org/S4393915683,ACM SIGMOD International Conference on Management of Data (SIGMOD),conference
+https://openalex.org/S4363607873,IEEE Conference on Industrial Electronics and Applications (ICIEA),conference
+https://openalex.org/S4306498867,International Conference on Electronics and Sustainable Communication Systems (ICESC),conference
+https://openalex.org/S4394736638,Journal of the American Statistical Association,journal
+https://openalex.org/S7407088563,International Conference on Computational Intelligence and Computing Applications (ICCICA),conference
+https://openalex.org/S4306423251,International Conference on Advances in Computing and Communication Engineering,conference
+https://openalex.org/S104797584,IEEE Computational Intelligence Magazine,journal
+https://openalex.org/S2486636169,Vietnam Journal of Computer Science,journal
+https://openalex.org/S57950554,International Journal of Intelligent Systems,journal
+https://openalex.org/S7407086712,"International Conference on Communication System, Computing and IT Applications (CSCITA)",conference
+https://openalex.org/S4210201094,International Journal of Advanced Research in Science Communication and Technology,journal
+https://openalex.org/S4306418057,Conference on Human Information Interaction and Retrieval,conference
+https://openalex.org/S4306422515,IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering,conference
+https://openalex.org/S78284227,Comptes Rendus Physique,journal
+https://openalex.org/S4306515762,Journal of Korean Institute of Industrial Engineers,journal
+https://openalex.org/S4210187594,Journal of Physics Conference Series,journal
+https://openalex.org/S4210210321,IEEE International Conference on Data Engineering (ICDE),conference
+https://openalex.org/S202381698,PLoS ONE,journal
+https://openalex.org/S4363604897,Innovations in Power and Advanced Computing Technologies (i-PACT),conference
+https://openalex.org/S4387281889,Applied and Computational Engineering,journal
+https://openalex.org/S4210224179,Journal of Software,journal
+https://openalex.org/S97403527,Egyptian Informatics Journal,journal
+https://openalex.org/S2764999920,International Journal of Machine Learning and Cybernetics,journal
+https://openalex.org/S4210209078,IEEE Transactions on Systems Man and Cybernetics Systems,journal
+https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference
+https://openalex.org/S64245694,Software & Systems Modeling,journal
+https://openalex.org/S4363608003,IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM),conference
+https://openalex.org/S7407096085,Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP),conference
+https://openalex.org/S4210201508,Scientia Sinica Informationis,journal
+https://openalex.org/S4363607790,"IEEE Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)",conference
+https://openalex.org/S4210229907,Scientific reports of Bukhara State University,journal
+https://openalex.org/S4210171581,Fusion Practice and Applications,journal
+https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal
+https://openalex.org/S4306498404,"International Conference on Computing, Mathematics and Engineering Technologies (iCoMET)",conference
+https://openalex.org/S119757635,The Annals of Statistics,journal
+https://openalex.org/S52395412,Bioinformatics,journal
+https://openalex.org/S4393917527,ACM SIGSAC Conference on Computer and Communications Security (CCS),conference
+https://openalex.org/S2764566388,International Journal for Research in Applied Science and Engineering Technology,journal
+https://openalex.org/S4306401404,CyberLeninK (CyberLeninka),repository
+https://openalex.org/S116626079,International Journal of Intelligent Information Technologies,journal
+https://openalex.org/S7407087041,International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct (MobileHCI Adjunct),conference
+https://openalex.org/S4210174798,SN Computer Science,journal
+https://openalex.org/S4363608926,"International Conference on Availability, Reliability and Security (ARES)",conference
+https://openalex.org/S4210176598,ACM SIGKDD Explorations Newsletter,journal
+https://openalex.org/S4306402302,Repository for Publications and Research Data (ETH Zurich),repository
+https://openalex.org/S12497220,International Journal of Business and Systems Research,journal
+https://openalex.org/S2480266640,IEEE Internet of Things Journal,journal
+https://openalex.org/S4306419186,"International Conference on Circuit, Power and Computing Technologies",conference
+https://openalex.org/S147897268,Neural Computing and Applications,journal
+https://openalex.org/S7407086319,International Conference on PErvasive Technologies Related to Assistive Environments (PETRA),conference
+https://openalex.org/S4210205812,Applied Sciences,journal
+https://openalex.org/S4306463922,Society for Industrial and Applied Mathematics eBooks,ebook platform
+https://openalex.org/S4210231409,Southeast Europe Journal of Soft Computing,journal
+https://openalex.org/S4306420590,Network and Distributed System Security Symposium,conference
+https://openalex.org/S4363608224,IEEE International Conference on Distributed Computing Systems (ICDCS),conference
+https://openalex.org/S2764627845,Annals of the International Communication Association,journal
+https://openalex.org/S4306401925,Singapore Management University Institutional Knowledge (InK) (Singapore Management University),repository
+https://openalex.org/S195231649,Entropy,journal
+https://openalex.org/S15272795,International Journal of Emerging Technologies in Learning (iJET),journal
+https://openalex.org/S72232612,Expert Systems,journal
+https://openalex.org/S89276529,ACM Transactions on Computer-Human Interaction,journal
+https://openalex.org/S146555279,International Journal of Business Information Systems,journal
+https://openalex.org/S4363607933,International Conference on Inventive Computation Technologies (ICICT),conference
+https://openalex.org/S4210216920,International Journal of Engineering Applied Sciences and Technology,journal
+https://openalex.org/S4306498537,International Conference on Information and Communications Technology (ICOIACT),conference
+https://openalex.org/S7407087405,"International Conference on Advances in Computing, Communications and Informatics (ICACCI)",conference
+https://openalex.org/S4306420003,International Joint Conference on Computer Science and Software Engineering,conference
+https://openalex.org/S98143213,American Philosophical Quarterly,journal
+https://openalex.org/S2764657047,International Journal of Engineering and Technology,journal
+https://openalex.org/S4306400562,Zenodo (CERN European Organization for Nuclear Research),repository
+https://openalex.org/S7407088302,Multidisciplinary International Social Networks Conference (MISNC),conference
+https://openalex.org/S2764748552,International Journal of Advanced Research in Computer Science,journal
+https://openalex.org/S7407106339,IEEE Technological Innovations in ICT for Agriculture and Rural Development (TIAR),conference
+https://openalex.org/S2764508448,Journal of Al-Nahrain University-Science,journal
+https://openalex.org/S4210180030,Transactions of the International Society for Music Information Retrieval,journal
+https://openalex.org/S4210240841,INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT,journal
+https://openalex.org/S2764799362,European Scientific Journal ESJ,journal
+https://openalex.org/S4210187166,IJARCCE,journal
+https://openalex.org/S4306402512,HAL,repository
+https://openalex.org/S61310614,IEEE Transactions on Information Forensics and Security,journal
+https://openalex.org/S4306417581,ACM Symposium on Applied Computing,conference
+https://openalex.org/S2486202937,IEICE Transactions on Information and Systems,journal
+https://openalex.org/S4210213567,AoIR Selected Papers of Internet Research,journal
+https://openalex.org/S126824455,IEEE Transactions on Consumer Electronics,journal
+https://openalex.org/S4363608154,International Conference on Higher Education Advances (HEAd),conference
+https://openalex.org/S4306498393,UBT International Conference,conference
+https://openalex.org/S200968236,International Journal of Knowledge and Systems Science,journal
+https://openalex.org/S4306509154,İlköğretim Online,journal
+https://openalex.org/S7407086590,IEEE Middle East and North Africa Communications Conference (MENACOMM),conference
+https://openalex.org/S4387285782,Vidhyayana,journal
+https://openalex.org/S5407053949,IITM Journal of Management and IT,journal
+https://openalex.org/S87630009,International Journal of Multimedia Data Engineering and Management,journal
+https://openalex.org/S4210178049,PeerJ Computer Science,journal
+https://openalex.org/S7407087253,International Conference on Information and Computer Technologies (ICICT),conference
+https://openalex.org/S7407096168,"International Conference on Communication, Computing and Energy Efficient Technologies (I3CEET)",conference
+https://openalex.org/S2477777830,International Journal of Information Engineering and Electronic Business,journal
+https://openalex.org/S4306401142,Seton Hall University eRepository (Seton Hall University),repository
+https://openalex.org/S7407086216,IEEE Congress on Information Science and Technology (CiSt),conference
+https://openalex.org/S4306419691,International Conference on Model-Driven Engineering and Software Development,conference
+https://openalex.org/S2764944466,Journal of Emerging Technologies and Innovative Research,journal
+https://openalex.org/S130363450,IEEE Transactions on Learning Technologies,journal
+https://openalex.org/S4387287039,Eurasian Journal of Academic Research,journal
+https://openalex.org/S192184247,International Journal of Mobile Computing and Multimedia Communications,journal
+https://openalex.org/S2764408626,IAES International Journal of Artificial Intelligence,journal
+https://openalex.org/S119727669,Intelligent Decision Technologies,journal
+https://openalex.org/S4210233641,Business Information Systems,journal
+https://openalex.org/S4210169770,International Journal of Computer Sciences and Engineering,journal
+https://openalex.org/S7407087406,International Conference on Big Data and Internet of Things (BDIOT),conference
+https://openalex.org/S114141714,Journal of Software,journal
+https://openalex.org/S4210239500,ACS Omega,journal
+https://openalex.org/S7407088164,ACM Conference on Hypertext and Social Media (HT),conference
+https://openalex.org/S149070780,Production and Operations Management,journal
+https://openalex.org/S120348307,Procedia Computer Science,journal
+https://openalex.org/S4210184788,Journal of Scientometric Research,journal
+https://openalex.org/S4306419365,International Conference on eDemocracy & eGovernment,conference
+https://openalex.org/S73121659,Computer Science Review,journal
+https://openalex.org/S196734849,Scientific Reports,journal
+https://openalex.org/S4210191041,IEEE Transactions on Cybernetics,journal
+https://openalex.org/S41523882,ACM Transactions on Knowledge Discovery from Data,journal
+https://openalex.org/S42848612,International Journal of Data Mining Modelling and Management,journal
+https://openalex.org/S4393917016,IEEE SoutheastCon,conference
+https://openalex.org/S7407055369,Lirias,repository
+https://openalex.org/S2764746358,Indian Journal of Science and Technology,journal
+https://openalex.org/S4210209060,Big Data Mining and Analytics,journal
+https://openalex.org/S64417657,International Journal of Distributed Sensor Networks,journal
+https://openalex.org/S4306418317,European Conference on Computer Systems,conference
+https://openalex.org/S4393918563,IEEE ... International Conference on Data Mining workshops,conference
+https://openalex.org/S4210189194,IOP Conference Series Materials Science and Engineering,conference
+https://openalex.org/S7407088866,IEEE International Conference on Data Engineering Workshops (ICDEW),conference
+https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,conference
+https://openalex.org/S7407087561,IEEE International Conference on Computer and Communications (ICCC),conference
+https://openalex.org/S4363607709,IEEE International Conference on Big Data (BigData),conference
+https://openalex.org/S4363607707,International Joint Conference on Neural Networks (IJCNN),conference
+https://openalex.org/S2736621015,Defence Technology,journal
+https://openalex.org/S4306401293,Dialnet (Universidad de la Rioja),repository
+https://openalex.org/S4210214252,Risks,journal
+https://openalex.org/S4306401358,Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign),repository
+https://openalex.org/S7407096180,"National Conference on Electrical, Electronics and Computer Engineering (NCEECE)",conference
+https://openalex.org/S199944782,IEEE Transactions on Pattern Analysis and Machine Intelligence,journal
+https://openalex.org/S4210214883,Proceedings,conference
+https://openalex.org/S4210171338,IEEE/ACM International Symposium on Microarchitecture (MICRO),conference
+https://openalex.org/S133795288,IEEE Transactions on Dependable and Secure Computing,journal
+https://openalex.org/S7407085889,IEEE International Conference on Computer and Information Technology (CIT),conference
+https://openalex.org/S4393915740,Proceedings of the conference - Association for Computational Linguistics. Meeting,conference
+https://openalex.org/S7407088103,Cyber Security in Networking Conference (CSNet),conference
+https://openalex.org/S4363608588,International Conference on Networking and Network Applications (NaNA),conference
+https://openalex.org/S117679522,International Journal of Applied Mathematics and Computer Science,journal
+https://openalex.org/S4220651242,Computing in construction,journal
+https://openalex.org/S7407089224,International Conference on IT Innovation and Knowledge Discovery (ITIKD),conference
+https://openalex.org/S4363607966,"IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)",conference
+https://openalex.org/S4386872205,Proceedings,conference
+https://openalex.org/S4363607818,Signal Processing and Communications Applications Conference (SIU),conference
+https://openalex.org/S7407089355,"International Conference on Parallel, Distributed and Grid Computing (PDGC)",conference
+https://openalex.org/S7407104917,Workshop on Insights from Negative Results in NLP (Insights),conference
+https://openalex.org/S2764533852,International Journal of Sciences: Basic and Applied Research,journal
+https://openalex.org/S4306419168,International Conference on Big Data and Smart Computing,conference
+https://openalex.org/S4210180963,International Journal of Engineering Technology and Management Sciences,journal
+https://openalex.org/S4210169448,IEEE Transactions on Artificial Intelligence,journal
+https://openalex.org/S7407089060,International Conference on Security of Information and Networks (SIN),conference
+https://openalex.org/S4210186383,Data Intelligence,journal
+https://openalex.org/S7407086669,International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS),conference
+https://openalex.org/S4210187912,Machine learning for signal processing ...,conference
+https://openalex.org/S4393916863,Proceedings - International Symposium on Computer Architecture/Proceedings,conference
+https://openalex.org/S3035517252,Applied Network Science,journal
+https://openalex.org/S7407088337,ACM Southeast Regional Conference (ACMSE),conference
+https://openalex.org/S145159096,International Journal of Web Information Systems,journal
+https://openalex.org/S4363608444,IEEE International Conference on Industrial Informatics (INDIN),conference
+https://openalex.org/S26056741,ACM Transactions on Architecture and Code Optimization,journal
+https://openalex.org/S4210197529,Indian Journal of Computer Science and Engineering,journal
+https://openalex.org/S4363607835,"International Conference on Electronics, Communication and Aerospace Technology (ICECA)",conference
+https://openalex.org/S2765052175,International Journal of Data Mining & Knowledge Management Process,journal
+https://openalex.org/S4210194525,International Conference on Parallel Architectures and Compilation Techniques (PACT),conference
+https://openalex.org/S2898431940,The Journal of Finance and Data Science,journal
+https://openalex.org/S4363608190,International Conference on Intelligent Systems Design and Applications (ISDA),conference
+https://openalex.org/S4363608411,IEEE International Conference on Industrial Technology (ICIT),conference
+https://openalex.org/S191438308,International journal of Computer Networks & Communications,journal
+https://openalex.org/S4306419201,International Conference on Communications,conference
+https://openalex.org/S7407096491,IEEE International Conference on Advanced Computing Technologies (ICACT),conference
+https://openalex.org/S50927259,International Journal of Hybrid Intelligent Systems,journal
+https://openalex.org/S180838163,Journal of Cheminformatics,journal
+https://openalex.org/S4306523488,Proceedings of Student Research and Creative Inquiry Day,journal
+https://openalex.org/S4210211642,International Journal of Psychosocial Rehabilitation,journal
+https://openalex.org/S4210215979,International Journal of Rough Sets and Data Analysis,journal
+https://openalex.org/S7407087729,IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT),conference
+https://openalex.org/S184777250,IEEE Transactions on Industrial Informatics,journal
+https://openalex.org/S7407096884,Panda Forum on Power and Energy (PandaFPE),conference
+https://openalex.org/S1250476,Journal of Internet Services and Applications,journal
+https://openalex.org/S4393918253,"IEEE International Symposium on Parallel & Distributed Processing, Workshops and Phd Forum",conference
+https://openalex.org/S207319443,Complexity,journal
+https://openalex.org/S4210199431,Statistical Theory and Related Fields,journal
+https://openalex.org/S84775595,IEEE Transactions on Visualization and Computer Graphics,journal
+https://openalex.org/S59670734,Theory and Practice of Logic Programming,journal
+https://openalex.org/S4363608557,"International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",conference
+https://openalex.org/S7407086849,IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops),conference
+https://openalex.org/S107516304,BMC Medical Informatics and Decision Making,journal
+https://openalex.org/S7407089229,International Workshop on Semantic and Social Media Adaptation and Personalization (SMAP),conference
+https://openalex.org/S7407086998,IEEE International Conference on Joint Cloud Computing (JCC),conference
+https://openalex.org/S5240358,IEEE Transactions on Biomedical Engineering,journal
+https://openalex.org/S2898358376,iScience,journal
+https://openalex.org/S4306401280,DOAJ (DOAJ: Directory of Open Access Journals),repository
+https://openalex.org/S2764945857,Journal of Computing Science and Engineering,journal
+https://openalex.org/S4306422764,IEEE International WIE Conference on Electrical and Computer Engineering,conference
+https://openalex.org/S4393918545,Proceedings of the Association for Information Science and Technology,journal
+https://openalex.org/S2765074215,Journal of Communications Software and Systems,journal
+https://openalex.org/S4393918218,IEEE International Conference on Bioinformatics and Bioengineering (BIBE),conference
+https://openalex.org/S4363608555,International Conference on Ubiquitous Information Management and Communication (IMCOM),conference
+https://openalex.org/S19032547,BMC Bioinformatics,journal
+https://openalex.org/S7407106007,International Conference on Anti-Cyber Crimes (ICACC),conference
+https://openalex.org/S2764778865,International Journal of Applied Research on Information Technology and Computing,journal
+https://openalex.org/S4210192031,Mathematics,journal
+https://openalex.org/S4306417852,Brazilian Conference on Intelligent Systems,conference
+https://openalex.org/S4210239272,Multiple Criteria Decision Making,journal
+https://openalex.org/S18516046,International Journal of Synthetic Emotions,journal
+https://openalex.org/S2739325770,International Journal of Engineering Research and Applications,journal
+https://openalex.org/S7407088825,"International Conference on Bioscience, Biochemistry and Bioinformatics (ICBBB)",conference
+https://openalex.org/S4363608293,International Conference on Data Science and Information Technology (DSIT),conference
+https://openalex.org/S7407087227,International Conference in Software Engineering Research and Innovation (CONISOFT),conference
+https://openalex.org/S7407096151,International Conference on Artificial Intelligence and Information Systems (ICAIIS),conference
+https://openalex.org/S7407096943,International Interdisciplinary Humanitarian Conference for Sustainability (IIHC),conference
+https://openalex.org/S4210223945,Journal of Artificial Intelligence and Soft Computing Research,journal
+https://openalex.org/S7407087313,International Conference on Field-Programmable Technology (FPT),conference
+https://openalex.org/S2764896880,Computer Engineering and Applications Journal,journal
+https://openalex.org/S28614077,BMC Genomics,journal
+https://openalex.org/S7407087481,IEEE International Conference on Parallel and Distributed Systems (ICPADS),conference
+https://openalex.org/S4363608098,IEEE Annual Computing and Communication Workshop and Conference (CCWC),conference
+https://openalex.org/S177792750,Decision Sciences,journal
+https://openalex.org/S4210175320,"IEEE International Performance, Computing, and Communications Conference",conference
+https://openalex.org/S4363608016,"IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",conference
+https://openalex.org/S4210183850,International Conference on Advanced Communication Technology,conference
+https://openalex.org/S4363606990,IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW),conference
+https://openalex.org/S2492493267,Security Informatics,journal
+https://openalex.org/S100835903,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,journal
+https://openalex.org/S4306518979,LWA,journal
+https://openalex.org/S98183460,IEEE Transactions on Neural Systems and Rehabilitation Engineering,journal
+https://openalex.org/S7407088927,International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC),conference
+https://openalex.org/S4306419235,International Conference on Computer and Knowledge Engineering,conference
+https://openalex.org/S7407086848,IEEE International Conference on Mobile Ad-Hoc and Sensor Systems (MASS),conference
+https://openalex.org/S7407088062,"International Symposium on Research in Attacks, Intrusions and Defenses (RAID)",conference
+https://openalex.org/S7407104672,International Conference on Recent Advances in Energy-efficient Computing and Communication (ICRAECC),conference
+https://openalex.org/S4306423279,International Conference on Applied and Theoretical Computing and Communication Technology,conference
+https://openalex.org/S4210210796,International Journal of Engineering and Advanced Technology,journal
+https://openalex.org/S2764729214,International Journal of Computing Algorithm,journal
+https://openalex.org/S4210215987,IAPR International Conference on Document Analysis and Recognition (ICDAR),conference
+https://openalex.org/S4363607919,"International Conference on Automation, Computing and Renewable Systems (ICACRS)",conference
+https://openalex.org/S131442419,International Journal of Software Engineering and Knowledge Engineering,journal
+https://openalex.org/S2764615551,Dianzi Ke-ji Daxue xuebao,journal
+https://openalex.org/S4393918409,Interspeech (USB),conference
+https://openalex.org/S7407096848,International Conference on Intelligent Cyber Physical Systems and Internet of Things (ICoICI),conference
+https://openalex.org/S4363607811,International Conference on Intelligent Technologies (CONIT),conference
+https://openalex.org/S4363607730,IEEE International Conference on Bioinformatics and Biomedicine (BIBM),conference
+https://openalex.org/S4363608406,IEEE International Conference on Communication Systems and Network Technologies (CSNT),conference
+https://openalex.org/S120683614,Security and Communication Networks,journal
+https://openalex.org/S2736480191,Baghdad Science Journal,journal
+https://openalex.org/S2764352028,Journal of Mathematical and Computational Science,journal
+https://openalex.org/S4363609011,ACM Asia Conference on Computer and Communications Security (ASIA CCS),conference
+https://openalex.org/S186921487,ACM SIGSOFT Software Engineering Notes,journal
+https://openalex.org/S4363606357,IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC),conference
+https://openalex.org/S7407088050,IEEE Conference on Dependable and Secure Computing (DSC),conference
+https://openalex.org/S4210185204,International Journal of Education and Management Engineering,journal
+https://openalex.org/S4306402468,NCSU Libraries Repository (North Carolina State University Libraries),repository
+https://openalex.org/S7407086965,IEEE European Technology and Engineering Management Summit (E-TEMS),conference
+https://openalex.org/S4220651959,AHFE international,journal
+https://openalex.org/S4306497833,"International Conference on Computing, Communication and Networking Technologies (ICCCNT)",conference
+https://openalex.org/S7407087329,"IEEE International Conference on Electrical, Automation and Computer Engineering (ICEACE)",conference
+https://openalex.org/S2737955091,Journal Of Big Data,journal
+https://openalex.org/S7407088108,IEEE International Conference on Computational Intelligence and Computing Research (ICCIC),conference
+https://openalex.org/S7407106607,"International Conference on Computing, Machine Learning, and Data Science (CMLDS)",conference
+https://openalex.org/S4390297092,Teknomatika Jurnal Informatika dan Komputer,journal
+https://openalex.org/S4210222193,Komputasi Jurnal Ilmiah Ilmu Komputer dan Matematika,journal
+https://openalex.org/S4210201516,Mathematical and Computational Applications,journal
+https://openalex.org/S2898368220,ICT Express,journal
+https://openalex.org/S2764455111,PubMed Central,repository
+https://openalex.org/S75069817,Energy Procedia,journal
+https://openalex.org/S5406985626,International Journal of Computer Science and Engineering Research and Development,journal
+https://openalex.org/S4393914142,IEEE International Symposium on Circuits and Systems proceedings,conference
+https://openalex.org/S2764696622,AIP conference proceedings,journal
+https://openalex.org/S7407097580,DigitalCommons@UNO,repository
+https://openalex.org/S5407051902,Journal of Tax Research,journal
+https://openalex.org/S7407087351,"International Conference on Artificial Intelligence, Robotics and Control (AIRC)",conference
+https://openalex.org/S7407107439,International Conference on Computer Application and Computer Graphics,conference
+https://openalex.org/S43295729,Remote Sensing,journal
+https://openalex.org/S2764769169,Korean Journal of Social Welfare,journal
+https://openalex.org/S7407089168,ACM SIGOPS Symposium on Operating Systems Principles (SOSP),conference
+https://openalex.org/S7407087723,ACM Symposium on Theory of Computing (STOC),conference
+https://openalex.org/S4210210251,IEEE Transactions on Emerging Topics in Computational Intelligence,journal
+https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,journal
+https://openalex.org/S2736736441,Türk bilgisayar ve matematik eğitimi dergisi,journal
+https://openalex.org/S4363607829,International Conference on Intelligent Computing and Control Systems (ICICCS),conference
+https://openalex.org/S4306402487,OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information),repository
+https://openalex.org/S17643076,IEEE Computer Architecture Letters,journal
+https://openalex.org/S4210235203,International Journal of Computer Engineering in Research Trends,journal
+https://openalex.org/S4306521130,NTT technical review,journal
+https://openalex.org/S64081563,Solid State Technology,journal
+https://openalex.org/S4306417578,ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming,conference
+https://openalex.org/S190787756,Symmetry,journal
+https://openalex.org/S7407089340,World Conference on Computing and Communication Technologies (WCCCT),conference
+https://openalex.org/S4363607844,"International Conference on Intelligent Computing, Instrumentation and Control Technologies (ICICICT)",conference
+https://openalex.org/S4363608170,Moratuwa Engineering Research Conference (MERCon),conference
+https://openalex.org/S4210180398,Software Impacts,journal
+https://openalex.org/S4306419706,International Conference on Multimedia Retrieval,conference
+https://openalex.org/S4210173141,IEEE Transactions on Image Processing,journal
+https://openalex.org/S7407105908,International Conference on Current Trends in Advanced Computing (ICCTAC),conference
+https://openalex.org/S4306423808,International Conference on Information Technology in Medicine and Education,conference
+https://openalex.org/S2738720830,Cybernetics and Information Technologies,journal
+https://openalex.org/S4306422014,CSI International Symposium on Artificial Intelligence and Signal Processing,conference
+https://openalex.org/S62387513,Automatika,journal
+https://openalex.org/S4306419318,International Conference on Data and Software Engineering,conference
+https://openalex.org/S2484352698,IEEE Transactions on Network Science and Engineering,journal
+https://openalex.org/S7407086252,International Conference on Computer Engineering & Systems (ICCES),conference
+https://openalex.org/S7407066988,UTK RESEARCH JOURNAL,journal
+https://openalex.org/S106296714,Lecture notes in computer science,book series
+https://openalex.org/S2734814886,Digital Scholarship in the Humanities,journal
+https://openalex.org/S4210222260,International Conference on Computer Systems and Technologies (CompSysTech),conference
+https://openalex.org/S4210228075,Computers,journal
+https://openalex.org/S4210226961,Journal of Information and Telecommunication,journal
+https://openalex.org/S165318533,INFORMS journal on computing,journal
+https://openalex.org/S4387281046,Dhaka University Journal of Applied Science and Engineering,journal
+https://openalex.org/S4306498546,"International Conference on Sensing, Diagnostics, Prognostics, and Control (SDPC)",conference
+https://openalex.org/S4210179746,MENDEL,journal
+https://openalex.org/S11065456,Concurrency and Computation Practice and Experience,journal
+https://openalex.org/S4306515081,JITAM,journal
+https://openalex.org/S7407086083,Annual Meeting of the Association for Computational Linguistics: System Demonstrations (ACL Demo),conference
+https://openalex.org/S2764814617,Journal of Data Mining in Genomics & Proteomics,journal
+https://openalex.org/S47508943,ACM SIGMOD Record,journal
+https://openalex.org/S2495854775,IEEE Journal of Biomedical and Health Informatics,journal
+https://openalex.org/S4306400155,AAAI Publications (The Association for the Advancement of Artificial Intelligence (AAAI)),repository
+https://openalex.org/S4306419630,International Conference on Knowledge Capture,conference
+https://openalex.org/S4306419919,"International Conference on Web Intelligence, Mining and Semantics",conference
+https://openalex.org/S68686220,Proceedings of the IEEE,journal
+https://openalex.org/S4363608991,Conference on Empirical Methods in Natural Language Processing (EMNLP),conference
+https://openalex.org/S7407087396,ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR),conference
+https://openalex.org/S4363608774,Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT),conference
+https://openalex.org/S4210219776,Information,journal
+https://openalex.org/S4210177235,Semantic Web,journal
+https://openalex.org/S106963461,Nature Biotechnology,journal
+https://openalex.org/S1336409049,eLife,journal
+https://openalex.org/S45584542,Queue,journal
+https://openalex.org/S2764993483,Ain Shams Engineering Journal,journal
+https://openalex.org/S4210192142,Engineering,journal
+https://openalex.org/S131231701,ACM Transactions on the Web,journal
+https://openalex.org/S4210170298,APSIPA Transactions on Signal and Information Processing,journal
+https://openalex.org/S4210215966,Big Earth Data,journal
+https://openalex.org/S4210176548,IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings,conference
+https://openalex.org/S61699894,Computers & Geosciences,journal
+https://openalex.org/S2738614666,Research Ideas and Outcomes,journal
+https://openalex.org/S4210177083,Fundamental Research,journal
+https://openalex.org/S4210205892,ACM SIGWEB Newsletter,journal
+https://openalex.org/S4363608627,IEEE International Conference on Semantic Computing (ICSC),conference
+https://openalex.org/S4306420732,Principles of Knowledge Representation and Reasoning,conference
+https://openalex.org/S4210199577,Bulletin of Social Informatics Theory and Application,journal
+https://openalex.org/S196139623,Artificial Intelligence,journal
+https://openalex.org/S4210183075,Data-Centric Engineering,journal
+https://openalex.org/S7407113604,Annual Cyber and Information Security Research Conference (CISRC),conference
+https://openalex.org/S7407086165,"IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA)",conference
+https://openalex.org/S4306401940,City Research Online (City University London),repository
+https://openalex.org/S4210202905,Electronics,journal
+https://openalex.org/S4306525036,PubMed,repository
+https://openalex.org/S7407087743,IEEE Conference on Computer Communications (INFOCOM),conference
+https://openalex.org/S1983995261,PeerJ,journal
+https://openalex.org/S4210236925,Biodiversity Information Science and Standards,journal
+https://openalex.org/S4363608837,International Conference on Agents and Artificial Intelligence (ICAART),conference
+https://openalex.org/S4306400088,UvA-DARE (University of Amsterdam),repository
+https://openalex.org/S4210196386,Journal of Geovisualization and Spatial Analysis,journal
+https://openalex.org/S89564548,BIBLIOTHEK Forschung und Praxis,journal
+https://openalex.org/S204223317,IEEE Transactions on Services Computing,journal
+https://openalex.org/S60779006,Computers in Industry,journal
+https://openalex.org/S4210202120,Digital Discovery,journal
+https://openalex.org/S173178594,Journal of Computing and Information Science in Engineering,journal
+https://openalex.org/S205857434,The Serials Librarian,journal
+https://openalex.org/S7407114785,International Joint Conference on Knowledge Graphs (IJCKG),conference
+https://openalex.org/S4363607879,IEEE International Conference on Acoustics Speech and Signal Processing,conference
+https://openalex.org/S4210228539,International Journal of Software Innovation,journal
+https://openalex.org/S4210178793,Health Information Science and Systems,journal
+https://openalex.org/S2735135405,GigaScience,journal
+https://openalex.org/S134668137,Nucleic Acids Research,journal
+https://openalex.org/S2912241403,Nature Machine Intelligence,journal
+https://openalex.org/S4306417562,ACM/IEEE Joint Conference on Digital Libraries,conference
+https://openalex.org/S902750600,The Electronic Library,journal
+https://openalex.org/S4306422623,IEEE International Conference on Data Science in Cyberspace,conference
+https://openalex.org/S192650101,Information Sciences,journal
+https://openalex.org/S4210183794,Research Data Journal for the Humanities and Social Sciences,journal
+https://openalex.org/S7407089216,IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE),conference
+https://openalex.org/S4306498617,International Conference on Computer and Communication Systems (ICCCS),conference
+https://openalex.org/S33456383,Journal of Animal Ecology,journal
+https://openalex.org/S133599136,Organizational Research Methods,journal
+https://openalex.org/S1131227,Methods in Ecology and Evolution,journal
+https://openalex.org/S54816476,Medical Education,journal
+https://openalex.org/S171183513,Current Issues in Tourism,journal
+https://openalex.org/S4210206464,International journal of organizational analysis,journal
+https://openalex.org/S143568823,Library Hi Tech,journal
+https://openalex.org/S104917558,Procedia - Social and Behavioral Sciences,journal
+https://openalex.org/S107213193,Social Cognitive and Affective Neuroscience,journal
+https://openalex.org/S2764570952,Social Media + Society,journal
+https://openalex.org/S2764876117,European Journal for Sport and Society,journal
+https://openalex.org/S44585919,Journal of Economic Dynamics and Control,journal
+https://openalex.org/S2738771326,Cogent Arts and Humanities,journal
+https://openalex.org/S191413112,Journal of Social Structure,journal
+https://openalex.org/S138592535,Journal of Information Technology Research,journal
+https://openalex.org/S17147534,Journal of Medical Internet Research,journal
+https://openalex.org/S61446325,Computación y Sistemas,journal
+https://openalex.org/S121058368,Sport Management Review,journal
+https://openalex.org/S138235560,Social Psychological and Personality Science,journal
+https://openalex.org/S2490693980,IEEE Transactions on Computational Social Systems,journal
+https://openalex.org/S41302103,International Journal of Physical Distribution & Logistics Management,journal
+https://openalex.org/S2764955546,Journal of King Saud University - Computer and Information Sciences,journal
+https://openalex.org/S2596526815,Frontiers in Education,journal
+https://openalex.org/S4220651947,Advances in intelligent systems research/Advances in Intelligent Systems Research,book series
+https://openalex.org/S2764971081,Media and Communication,journal
+https://openalex.org/S3162283,Journal of Mixed Methods Research,journal
+https://openalex.org/S5290899,Journal of the Society for Social Work and Research,journal
+https://openalex.org/S4210190682,Physical Review Physics Education Research,journal
+https://openalex.org/S86586338,International Journal of Web Engineering and Technology,journal
+https://openalex.org/S109723506,Child Development,journal
+https://openalex.org/S144495243,Journal of Management in Engineering,journal
+https://openalex.org/S94775995,European Business Review,journal
+https://openalex.org/S1010394304,BioMed Research International,journal
+https://openalex.org/S26186134,Social Networks,journal
+https://openalex.org/S4210208655,Technium Social Sciences Journal,journal
+https://openalex.org/S136099329,Qualitative Research,journal
+https://openalex.org/S4306499836,IEEE International Multitopic Conference (INMIC),conference
+https://openalex.org/S2764799587,International Journal of Construction Management,journal
+https://openalex.org/S76728445,Social Science Quarterly,journal
+https://openalex.org/S148874517,Facilities,journal
+https://openalex.org/S79946630,Population Space and Place,journal
+https://openalex.org/S4306402641,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),repository
+https://openalex.org/S2765047215,AJIT-e Academic Journal of Information Technology,journal
+https://openalex.org/S2764708084,Production,journal
+https://openalex.org/S141724154,Terrorism and Political Violence,journal
+https://openalex.org/S47496282,European Political Science,journal
+https://openalex.org/S188110670,Literature Compass,journal
+https://openalex.org/S48031226,Journal of Ambient Intelligence and Humanized Computing,journal
+https://openalex.org/S65690446,International Journal of Production Research,journal
+https://openalex.org/S144449874,Animal Welfare,journal
+https://openalex.org/S54853311,Journal of Infrastructure Systems,journal
+https://openalex.org/S143207802,Journal of Asian Public Policy,journal
+https://openalex.org/S134188425,Automation and Remote Control,journal
+https://openalex.org/S4306533463,Turkish Journal of Computer and Mathematics Education (TURCOMAT),journal
+https://openalex.org/S100014455,BMC Research Notes,journal
+https://openalex.org/S7407107503,International Conference on Research Advances in Integrated Navigation Systems (RAINS),conference
+https://openalex.org/S58664585,International Studies Review,journal
+https://openalex.org/S4306420108,International Symposium on Computational Intelligence and Design,conference
+https://openalex.org/S4210195764,"Conference proceedings/Conference proceedings - IEEE International Conference on Systems, Man, and Cybernetics",conference
+https://openalex.org/S149729710,Tobacco Control,journal
+https://openalex.org/S2764777209,Journal of Construction Engineering and Management,journal
+https://openalex.org/S114106686,International Journal of Research & Method in Education,journal
+https://openalex.org/S4363608325,International Conference on System Modeling & Advancement in Research Trends (SMART),conference
+https://openalex.org/S123914889,International Journal of Entrepreneurship and Small Business,journal
+https://openalex.org/S4210188408,Digital Health,journal
+https://openalex.org/S4377196264,Kent Academic Repository (University of Kent),repository
+https://openalex.org/S4363607780,"International Conference on Advances in Computing, Communication Control and Networking (ICAC3N)",conference
+https://openalex.org/S4210172729,Journal of Humanitarian Logistics and Supply Chain Management,journal
+https://openalex.org/S115104844,Politics &amp Policy,journal
+https://openalex.org/S46544255,PLoS neglected tropical diseases,journal
+https://openalex.org/S5743915,Journal of Computer Assisted Learning,journal
+https://openalex.org/S23642417,Society & Natural Resources,journal
+https://openalex.org/S81608247,Tourism and Hospitality Research,journal
+https://openalex.org/S4406922277,DepositOnce,repository
+https://openalex.org/S4210203114,Bulletin de la Société Royale des Sciences de Liège,journal
+https://openalex.org/S4306400886,Universiti Utara Malaysia Institutional Repository (Universiti Utara Malaysia),repository
+https://openalex.org/S4210192748,International Journal of Academic Research in Accounting Finance and Management Sciences,journal
+https://openalex.org/S53135262,Journal of Educational and Behavioral Statistics,journal
+https://openalex.org/S7407087035,"IEEE International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA)",conference
+https://openalex.org/S4306420005,"International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",conference
+https://openalex.org/S4306401271,RePEc: Research Papers in Economics,repository
+https://openalex.org/S2764610068,Simulation in Healthcare The Journal of the Society for Simulation in Healthcare,journal
+https://openalex.org/S4210230638,BAREKENG JURNAL ILMU MATEMATIKA DAN TERAPAN,journal
+https://openalex.org/S181049350,Zeitschrift für Arbeits- und Organisationspsychologie A&O,journal
+https://openalex.org/S19793444,Academic Medicine,journal
+https://openalex.org/S155671932,Australian Social Work,journal
+https://openalex.org/S91749377,Transboundary and Emerging Diseases,journal
+https://openalex.org/S7407086688,International Conference on Communication and Information Systems (ICCIS),conference
+https://openalex.org/S1014724869,Economic Research-Ekonomska Istraživanja,journal
+https://openalex.org/S119514724,Policy Studies Journal,journal
+https://openalex.org/S157485431,Journal of Travel Research,journal
+https://openalex.org/S172215273,International Journal of Mental Health Systems,journal
+https://openalex.org/S2764964828,The Journal of Applied Management and Entrepreneurship,journal
+https://openalex.org/S127742747,Journal of Econometrics,journal
+https://openalex.org/S183492911,"Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",journal
+https://openalex.org/S7407086460,IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),conference
+https://openalex.org/S187270080,European Journal of Work and Organizational Psychology,journal
+https://openalex.org/S4210219954,Facta Universitatis Series Automatic Control and Robotics,journal
+https://openalex.org/S7407088894,IEEE International Conference on Big Data Computing Service and Applications (BigDataService),conference
+https://openalex.org/S4306402470,UTUPub (University of Turku),repository
+https://openalex.org/S7407055165,Open Publication Harvester of National Academy of Sciences of Ukraine,repository
+https://openalex.org/S4210215929,Galician Medical Journal,journal
+https://openalex.org/S4210213657,Earth & Environmental Science Research & Reviews,journal
+https://openalex.org/S4306400539,Directory of Open access Books (OAPEN Foundation),repository
+https://openalex.org/S4210185171,The Criticism and Theory Society of Korea,journal
+https://openalex.org/S4377196444,E-resource repository of the University of Latvia (University of Latvia),repository
+https://openalex.org/S4210186323,International journal of production management and engineering,journal
+https://openalex.org/S10553207,Psychology,journal
+https://openalex.org/S86499044,Advances in Civil Engineering,journal
+https://openalex.org/S2764699336,International Area Studies Review,journal
+https://openalex.org/S61175029,Epidemiology and Infection,journal
+https://openalex.org/S7407087763,International Conference on Computation System and Information Technology for Sustainable Solutions (CSITSS),conference
+https://openalex.org/S111028034,Russian Education & Society,journal
+https://openalex.org/S114567169,Sociological Research Online,journal
+https://openalex.org/S144363146,The Information Society,journal
+https://openalex.org/S137832324,Journal of Advanced Nursing,journal
+https://openalex.org/S145410213,American Journal of Community Psychology,journal
+https://openalex.org/S144187503,BMC Medical Education,journal
+https://openalex.org/S15239247,International Journal of Environmental Research and Public Health,journal
+https://openalex.org/S4306520121,Modernism/Modernity Print Plus,journal
+https://openalex.org/S4306423357,"International Conference on Communication, Information & Computing Technology",conference
+https://openalex.org/S10134376,Sustainability,journal
+https://openalex.org/S4210231999,Chinese Public Administration Review,journal
+https://openalex.org/S7407086718,International Conference on Soft Computing & Machine Intelligence (ISCMI),conference
+https://openalex.org/S7407087374,"International Conference on Advanced Mechatronics, Intelligent Manufacture and Industrial Automation (ICAMIMIA)",conference
+https://openalex.org/S2764832985,Chinese Journal of Traumatology,journal
+https://openalex.org/S4363608214,International Conference on Computational Intelligence and Communication Networks (CICN),conference
+https://openalex.org/S4306498271,International Conference on Cyber and IT Service Management (CITSM),conference
+https://openalex.org/S4210198603,Journal of Computer and Communications,journal
+https://openalex.org/S36209479,Industry and Innovation,journal
+https://openalex.org/S4210239606,Russian Journal of Linguistics,journal
+https://openalex.org/S4210194519,School Psychology,journal
+https://openalex.org/S2531583244,Journal of Complex Networks,journal
+https://openalex.org/S2736697713,Advances in computer science : an international journal,journal
+https://openalex.org/S4394735782,Social Psychology and Society,journal
+https://openalex.org/S4210220344,TED EĞİTİM VE BİLİM,journal
+https://openalex.org/S106085749,International Journal of Intelligent Engineering Informatics,journal
+https://openalex.org/S7407096095,"International Conference on Energy, Communication, Data Analytics and Soft Computing (ICECDS)",conference
+https://openalex.org/S11782782,Australasian Marketing Journal (AMJ),journal
+https://openalex.org/S7407086691,International Conference on Information Technology Research (ICITR),conference
+https://openalex.org/S45419345,Psychological Methods,journal
+https://openalex.org/S144146645,Animal Conservation,journal
+https://openalex.org/S4306501731,Anais do Brazilian Workshop on Social Network Analysis and Mining (BraSNAM),conference
+https://openalex.org/S2738087221,Triple Helix Journal,journal
+https://openalex.org/S4387287409,International Journal of Innovative Research in Multidisciplinary Education,journal
+https://openalex.org/S4210200687,Machine Learning Science and Technology,journal
+https://openalex.org/S7407087914,ACM Symposium on Access Control Models and Technologies (SACMAT),conference
+https://openalex.org/S168680287,IEEE Transactions on Signal Processing,journal
+https://openalex.org/S170502224,ACM Transactions on Sensor Networks,journal
+https://openalex.org/S2597340651,Frontiers in Genetics,journal
+https://openalex.org/S4210231404,Frontiers of Computer Science,journal
+https://openalex.org/S4210232664,npj Computational Materials,journal
+https://openalex.org/S4363607764,IEEE/CVF International Conference on Computer Vision (ICCV),conference
+https://openalex.org/S4210192682,ACM/IEEE Symposium on Logic in Computer Science (LICS),conference
+https://openalex.org/S235346,Wireless Communications and Mobile Computing,journal
+https://openalex.org/S4210194934,Journal of Modern Power Systems and Clean Energy,journal
+https://openalex.org/S4210231368,ACM/IEEE Design Automation Conference (DAC),conference
+https://openalex.org/S4210188176,Foundations and Trends® in Machine Learning,journal
+https://openalex.org/S144771191,IEEE Transactions on Intelligent Transportation Systems,journal
+https://openalex.org/S4306419777,International Conference on Program Comprehension,conference
+https://openalex.org/S4363608791,Asia and South Pacific Design Automation Conference (ASP-DAC),conference
+https://openalex.org/S137030581,IEEE Transactions on Multimedia,journal
+https://openalex.org/S2764431341,ISPRS International Journal of Geo-Information,journal
+https://openalex.org/S2764553900,Journal of Data Science,journal
+https://openalex.org/S77047749,The Journal of Chemical Physics,journal
+https://openalex.org/S7407089175,"IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)",conference
+https://openalex.org/S64187185,Nature Communications,journal
+https://openalex.org/S66039016,ACM SIGCOMM Computer Communication Review,journal
+https://openalex.org/S104780363,IEEE Transactions on Affective Computing,journal
+https://openalex.org/S4363608203,"International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COM-IT-CON)",conference
+https://openalex.org/S115173108,IEEE Transactions on Circuits and Systems for Video Technology,journal
+https://openalex.org/S187585107,Journal of High Energy Physics,journal
+https://openalex.org/S4363605011,IEEE Globecom Workshops (GC Wkshps),conference
+https://openalex.org/S4393918188,IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),conference
+https://openalex.org/S120629676,IEEE Signal Processing Letters,journal
+https://openalex.org/S4210198592,IEEE Intelligent Vehicles Symposium,conference
+https://openalex.org/S4306419637,International Conference on Learning Representations,conference
+https://openalex.org/S4210205383,Proceedings of the ... International Florida Artificial Intelligence Research Society Conference,conference
+https://openalex.org/S157670870,IEEE Transactions on Computers,journal
+https://openalex.org/S121920818,Data Mining and Knowledge Discovery,journal
+https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,journal
+https://openalex.org/S186935893,Energy & Fuels,journal
+https://openalex.org/S4210202420,IEEE Open Journal of the Communications Society,journal
+https://openalex.org/S63459445,IEEE Transactions on Wireless Communications,journal
+https://openalex.org/S184645833,Chemical Science,journal
+https://openalex.org/S4210226731,Big Data,journal
+https://openalex.org/S66104727,Chemistry of Materials,journal
+https://openalex.org/S4210228084,Nature Computational Science,journal
+https://openalex.org/S58069681,IEEE Transactions on Medical Imaging,journal
+https://openalex.org/S4210169495,Scientia Sinica Mathematica,journal
+https://openalex.org/S59098468,Bulletin of the Seismological Society of America,journal
+https://openalex.org/S90422530,IEEE Journal on Selected Areas in Communications,journal
+https://openalex.org/S4210169774,IEEE Robotics and Automation Letters,journal
+https://openalex.org/S94821547,Computers & Graphics,journal
+https://openalex.org/S6756005,ACM SIGIR Forum,journal
+https://openalex.org/S7407104955,"International Conference on Communication, Control, Computing and Electronics Engineering (ICCCCEE)",conference
+https://openalex.org/S7407089132,IEEE International Conference on Software Engineering and Service Science (ICSESS),conference
+https://openalex.org/S159433931,Computer Applications in Engineering Education,journal
+https://openalex.org/S159903936,International Journal of High Performance Computing and Networking,journal
+https://openalex.org/S4306420871,SIAM International Conference on Data Mining,conference
+https://openalex.org/S4306402203,LillOA (Université de Lille (University Of Lille)),repository
+https://openalex.org/S4210219751,Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies,journal
+https://openalex.org/S4306498161,International Conference on Control in Technical Systems (CTS),conference
+https://openalex.org/S4306498178,International Conference on Computer Science and Engineering (UBMK),conference
+https://openalex.org/S125775545,Operations Research,journal
+https://openalex.org/S91767247,Briefings in Bioinformatics,journal
+https://openalex.org/S159450355,China Communications,journal
+https://openalex.org/S7407088768,International Conference on Advances in Image Processing (ICAIP),conference
+https://openalex.org/S7407089130,IEEE International Conference on Big Data Analytics (ICBDA),conference
+https://openalex.org/S7407088608,ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS),conference
